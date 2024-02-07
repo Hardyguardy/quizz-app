@@ -46,3 +46,8 @@
   cursor: pointer;
   border: none;
 }
+
+.container .index {
+  margin: auto;
+  font-size: 18px;
+}

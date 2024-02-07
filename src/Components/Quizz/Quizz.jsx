@@ -6,7 +6,7 @@ const Quizz = () => {
     <div className="container">
       <h1>Quizz App</h1>
       <hr />
-      <h2>What is the capital of Canada?</h2>
+      <h2>1. What is the capital of Canada?</h2>
       <ul>
         <li>Ottawa</li>
         <li>Vancouver</li>
